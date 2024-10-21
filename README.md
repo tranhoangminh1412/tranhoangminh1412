@@ -185,9 +185,13 @@ Check out my pinned repositories below for some of my favorite work!
 
 ### 💬 Let's Connect!
 I'm always open to discussing interesting projects or ideas! You can reach out to me on:
+<br/>
 <a href="https://linkedin.com/in/jasonminh">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="jasonminh"/>
-<a/>
+<a/> <br/>
+<a href="mailto:contact.minhtran@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="contact.minhtran@gmail.com"/>
+<a/> <br/>
 - [LinkedIn](https://linkedin.com/in/yourprofile)
 - [Twitter](https://twitter.com/yourprofile)
 - Email: [your-email@example.com](mailto:your-email@example.com)
