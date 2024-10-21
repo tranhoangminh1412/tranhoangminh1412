@@ -12,20 +12,18 @@
 <!--
   <img align="right" src="https://raw.githubusercontent.com/tranhoangminh1412/tranhoangminh1412/main/memoji.png" alt="My memoji" style="float: right; width: 350px; height: 350px;">
 -->
-  <div align="right">
-    **Where?**
+</div>
+
+***Where?***
     - :shipit: Computer Science + Mathematics @ [**DePauw University**][dp]
     - :shipit: Software Engineer Intern @ [**Meta**][meta]
     - :shipit: Software Engineer Intern @ [**NolymitAI**][nolymitai]
     - :shipit: Software Engineer Intern @ [**Unitech**][unitech]
     - :shipit: Vice President @ [**International Computer Science Association at DePauw**][icsa]
-  </div>
-</div>
-
 
 | 🎵 Currently Playing                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------------------------------ |
-| <div align="center"><a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=uggoayuoh2w3rag8aox8bxr1w&redirect=true"><img align="center" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=uggoayuoh2w3rag8aox8bxr1w&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)" style="max-width: 100%;"></a></div> |
+| <div align="end"><a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=uggoayuoh2w3rag8aox8bxr1w&redirect=true"><img align="end" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=uggoayuoh2w3rag8aox8bxr1w&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)" style="max-width: 100%;"></a></div> |
 
 <h2 align="middle" >Skills</h2>
 <h3 align="left">Languages:</h3>
