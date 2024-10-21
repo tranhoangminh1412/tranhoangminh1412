@@ -3,7 +3,7 @@
 -->
 
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Minh (Jason) Tran </h1>
-
+[![header](./banner.png)](https://minh-info.com/)
 A passionate Full-stack Software Engineer who loves music and metaphysics.
 
 | 🎵 Currently Playing                                                                                                                   |
