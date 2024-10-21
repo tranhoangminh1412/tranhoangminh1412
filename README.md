@@ -2,23 +2,16 @@
 [[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=uggoayuoh2w3rag8aox8bxr1w&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=uggoayuoh2w3rag8aox8bxr1w&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)]]
 -->
 
-# **👨🏻‍💻 Minh (Jason) Tran**
+### **👨🏻‍💻 Minh (Jason) Tran**
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  
-  <p style="width: 45; text-align: left;">
-    A passionate Full-stack Software Engineer who loves music and metaphysics.
-  </p>
-<!--
-  <img align="right" src="https://raw.githubusercontent.com/tranhoangminh1412/tranhoangminh1412/main/memoji.png" alt="My memoji" style="float: right; width: 350px; height: 350px;">
--->
-</div>
+A passionate Full-stack Software Engineer who loves music and metaphysics.
 
 | 🎵 Currently Playing                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------------------------------ |
 | <div align="right"><a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=uggoayuoh2w3rag8aox8bxr1w&redirect=true"><img align="right" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=uggoayuoh2w3rag8aox8bxr1w&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)" style="max-width: 100%;"></a></div> |
 
-**My life**
+### Life
+
 - 📍 Computer Science + Business Analytics @ [**DePauw University**][dp]
 - 📍 Software Engineer Intern @ [**MOR**][mor]
 - 📍 Software Engineer Intern @ [**Fastboy**][fabo]
@@ -143,8 +136,6 @@ lank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/>
     </a>
 </p>
-
----
 
 ### 🌱 What I'm Learning
 I'm constantly learning and experimenting with new things! Currently, I'm diving deeper into:
