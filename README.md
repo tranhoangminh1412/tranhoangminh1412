@@ -33,7 +33,7 @@
 [bonfire]: https://www.facebook.com/bonfire2020
 [dpr]: https://www.instagram.com/derobotics/
 
-<h2 align="middle" >Skills</h2>
+<h2 align="middle">✍️ Skills</h2>
 <h3 align="left">Languages:</h3>
 <p align="left">
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
