@@ -148,8 +148,8 @@ lank" rel="noreferrer">
 
 ### 🌱 What I'm Learning
 I'm constantly learning and experimenting with new things! Currently, I'm diving deeper into:
-- Computer Vision (OpenCV)
-- AR Techonologies
+- ✊ Computer Vision (OpenCV)
+- ✊ AR Techonologies
 
 ---
 <!--
