@@ -4,7 +4,8 @@
 
 # Hi there! 👋 I'm Minh (Jason) Tran
 
-Welcome to my GitHub profile! I'm a passionate Full-stack Software Engineer who loves music and metaphysics. Feel free to explore my projects, and don't hesitate to reach out if you want to collaborate or discuss anything.
+Welcome to my GitHub profile! I'm a passionate Full-stack Software Engineer who loves music and metaphysics. 
+Feel free to explore my projects, and don't hesitate to reach out if you want to collaborate or discuss anything.
 
 | 🎵 Now Playing                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------ |
