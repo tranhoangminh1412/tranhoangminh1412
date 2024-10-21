@@ -130,7 +130,7 @@ I'm constantly learning and experimenting with new things! Currently, I'm diving
 - AR Techonologies
 
 ---
-
+<!--
 <h2 align="center">List of my projects</h2>
 
 > &nbsp;
@@ -156,7 +156,7 @@ I'm constantly learning and experimenting with new things! Currently, I'm diving
 > <a href="https://github.com/quark-database/"><img src="https://raw.githubusercontent.com/anafro/anafro/main/Buttons/Open-In-Browser.svg" height="28"></a>
 > 
 > &nbsp;
-
+-->
 <h2 align="center" style="color: #44AEFB">📊 Statistics</h2>
 
 <!-- Begin Stats Cards -->
@@ -185,14 +185,12 @@ Check out my pinned repositories below for some of my favorite work!
 
 ### 💬 Let's Connect!
 I'm always open to discussing interesting projects or ideas! You can reach out to me on:
+<a href="https://linkedin.com/in/jasonminh">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="jasonminh"/>
+<a/>
 - [LinkedIn](https://linkedin.com/in/yourprofile)
 - [Twitter](https://twitter.com/yourprofile)
 - Email: [your-email@example.com](mailto:your-email@example.com)
-
----
-
-### ⚡ Fun Fact
-Did you know? [A fun fact about you! Something unique or quirky.]
 
 ---
 
