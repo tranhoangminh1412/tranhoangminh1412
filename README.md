@@ -13,7 +13,12 @@
   <img align="right" src="https://raw.githubusercontent.com/tranhoangminh1412/tranhoangminh1412/main/memoji.png" alt="My memoji" style="float: right; width: 350px; height: 350px;">
 -->
   <div align="right">
-    **Life currently**
+    **Where?**
+    - :shipit: Computer Science + Mathematics @ [**DePauw University**][dp]
+    - :shipit: Software Engineer Intern @ [**Meta**][meta]
+    - :shipit: Software Engineer Intern @ [**NolymitAI**][nolymitai]
+    - :shipit: Software Engineer Intern @ [**Unitech**][unitech]
+    - :shipit: Vice President @ [**International Computer Science Association at DePauw**][icsa]
   </div>
 </div>
 
