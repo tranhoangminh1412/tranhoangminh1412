@@ -128,8 +128,8 @@ Welcome to my GitHub profile! I'm a passionate Full-stack Software Engineer who 
 
 ### 🌱 What I'm Learning
 I'm constantly learning and experimenting with new things! Currently, I'm diving deeper into:
-- [Technology/Framework 1] 
-- [Technology/Framework 2]
+- Computer Vision 
+- AR Techonologies
 
 ---
 
