@@ -10,7 +10,7 @@ A passionate Full-stack Software Engineer who loves music and metaphysics.
 | ------------------------------------------------------------------------------------------------------------------------------ |
 | <div align="right"><a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=uggoayuoh2w3rag8aox8bxr1w&redirect=true"><img align="right" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=uggoayuoh2w3rag8aox8bxr1w&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)" style="max-width: 100%;"></a></div> |
 
-### Life
+<h2 align="middle">🗺️ Life</h2>
 
 - 📍 Computer Science + Business Analytics @ [**DePauw University**][dp]
 - 📍 Software Engineer Intern @ [**MOR**][mor]
