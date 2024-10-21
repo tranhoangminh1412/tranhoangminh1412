@@ -117,8 +117,6 @@ Did you know? [A fun fact about you! Something unique or quirky.]
 
 <h2 style="color: #44AEFB">📊 Statistics</h2>
 
-![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
-
 <!-- Begin Stats Cards -->
 <!-- Resources:  -->
 <!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
@@ -126,7 +124,7 @@ Did you know? [A fun fact about you! Something unique or quirky.]
 <!-- Change the value after ?username= to your GitHub username. -->
 <div class="stats" align="center">
 
-![Khaled Badran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RajaATAli&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20&hide_rank=true)
+![Khaled Badran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tranhoangminh1412&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20&hide_rank=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=tranhoangminh1412&count_private=true&theme=algolia&border_radius=20)
 
