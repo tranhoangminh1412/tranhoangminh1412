@@ -19,12 +19,12 @@
 | <div align="right"><a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=uggoayuoh2w3rag8aox8bxr1w&redirect=true"><img align="right" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=uggoayuoh2w3rag8aox8bxr1w&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)" style="max-width: 100%;"></a></div> |
 
 **My life**
-- 📌 Computer Science + Business Analytics @ [**DePauw University**][dp]
-- 📌 Software Engineer Intern @ [**MOR**][mor]
-- 📌 Software Engineer Intern @ [**Fastboy**][fabo]
-- 📌 Software Documentations Intern @ [**Comartek**][comar]
-- 📌 Founder @ [**Bonfire Project (facebook)**][bonfire]
-- 📌 PR Lead @ [**DePauw Robotics Club**][dpr]
+- 📍 Computer Science + Business Analytics @ [**DePauw University**][dp]
+- 📍 Software Engineer Intern @ [**MOR**][mor]
+- 📍 Software Engineer Intern @ [**Fastboy**][fabo]
+- 📍 Software Documentations Intern @ [**Comartek**][comar]
+- 📍 Founder @ [**Bonfire Project (facebook)**][bonfire]
+- 📍 PR Lead @ [**DePauw Robotics Club**][dpr]
 
 [dp]: https://www.depauw.edu/
 [mor]: https://www.morsoftware.com/
