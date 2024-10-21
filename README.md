@@ -162,6 +162,7 @@ I'm constantly learning and experimenting with new things! Currently, I'm diving
 <!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
 <!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
 <!-- Change the value after ?username= to your GitHub username. -->
+
 <div class="stats" align="center">
 
 <img align="center" src="https://raw.githubusercontent.com/tranhoangminh1412/tranhoangminh1412/main/statistics.gif" />
@@ -170,11 +171,13 @@ I'm constantly learning and experimenting with new things! Currently, I'm diving
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=tranhoangminh1412&count_private=true&theme=algolia&border_radius=20)
 
-<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledBadranDev&show_icons=true&theme=algolia&border_radius=20) -->
-    
-<!-- compact programming languages layout -->
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tranhoangminh1412&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=tranhoangminh1412&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20&hide_rank=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranhoangminh1412&layout=compact&show_icons=true&theme=algolia&border_radius=20" />
 </div>
+
+</div>
+
 <!--  End Stats Cards -->
   
 Check out my pinned repositories below for some of my favorite work!
