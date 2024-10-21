@@ -11,7 +11,7 @@
     Feel free to explore my projects, and don't hesitate to reach out if you want to collaborate or discuss anything.
   </p>
 
-  <img align="right" src="https://raw.githubusercontent.com/tranhoangminh1412/tranhoangminh1412/main/mail.google.png" alt="My memoji" style="float: right; width: 300px; height: 450px;">
+  <img align="right" src="https://raw.githubusercontent.com/tranhoangminh1412/tranhoangminh1412/main/mail.google.png" alt="My memoji" style="float: right; width: 350px; height: 350px;">
 </div>
 
 
