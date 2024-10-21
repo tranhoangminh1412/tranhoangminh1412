@@ -28,7 +28,8 @@ Welcome to my GitHub profile! I'm a passionate Full-stack Software Engineer who 
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <a href="https://www.cprogramming.com/" target="_b![mail google](https://github.com/user-attachments/assets/fe402d5b-69c0-42e4-8953-c8d11d21a6c0)
+lank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
     </a>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
