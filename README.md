@@ -10,9 +10,10 @@
     Welcome to my GitHub profile! I'm a passionate Full-stack Software Engineer who loves music and metaphysics. <br/>
     Feel free to explore my projects, and don't hesitate to reach out if you want to collaborate or discuss anything.
   </p>
-
+<!--
   <img align="right" src="https://raw.githubusercontent.com/tranhoangminh1412/tranhoangminh1412/main/memoji.png" alt="My memoji" style="float: right; width: 350px; height: 350px;">
 </div>
+-->
 
 
 | 🎵 Now Playing                                                                                                                    |
