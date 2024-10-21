@@ -26,8 +26,6 @@ Here are some ideas to get you started:
 | ------------------------------------------------------------------------------------------------------------------------------ |
 | <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=uggoayuoh2w3rag8aox8bxr1w&redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=uggoayuoh2w3rag8aox8bxr1w&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)" style="max-width: 100%;"></a> |
 
----
-
 <h2 align="center">Skills</h2>
 <h3 align="left">Languages:</h3>
 <p align="left">
@@ -173,9 +171,7 @@ I'm constantly learning and experimenting with new things! Currently, I'm diving
 > 
 > &nbsp;
 
----
-
-### ✨ Stats & Contributions
+<h2 align="center">✨ Stats & Contributions</h2>
 
 <h2 style="color: #44AEFB">📊 Statistics</h2>
 
