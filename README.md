@@ -4,11 +4,17 @@
 
 # Hi there! 👋 I'm Minh (Jason) Tran
 
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  
+  <p style="width: 45%; text-align: left;">
+    Welcome to my GitHub profile! I'm a passionate Full-stack Software Engineer who loves music and metaphysics. <br/>
+    Feel free to explore my projects, and don't hesitate to reach out if you want to collaborate or discuss anything.
+  </p>
 
-<p width="45%">
-  Welcome to my GitHub profile! I'm a passionate Full-stack Software Engineer who loves music and metaphysics. <br/>
-Feel free to explore my projects, and don't hesitate to reach out if you want to collaborate or discuss anything.  
-</p>
+  <img src="https://raw.githubusercontent.com/tranhoangminh1412/tranhoangminh1412/main/mail.google.png" alt="My memoji" style="float: right; width: 150px; height: 150px; border-radius: 50%;">
+  
+</div>
+
 
 | 🎵 Now Playing                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------ |
