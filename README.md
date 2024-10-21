@@ -15,9 +15,37 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there! 👋 I'm [Your Name]
+[![The Anafro's Profile Page Banner](https://raw.githubusercontent.com/anafro/anafro/main/Banners/Anafro-Readme-Projects.svg "Press the right mouse button and click 'Copy link address' to copy the URL to my GitHub page")](https://github.com/anafro)
 
-Welcome to my GitHub profile! I'm a passionate [Your Profession or Interest] who loves [your interests: coding, building, designing, etc.]. Feel free to explore my projects, and don't hesitate to reach out if you want to collaborate or discuss anything.
+<h2 align="center">List of my projects</h2>
+
+> &nbsp;
+>
+> <img width="18" src="https://raw.githubusercontent.com/anafro/anafro/main/Logos/Gallery.svg"> &nbsp; Anafro **Gallery** `v1.0`
+>
+> Gallery is an online collection of my websites and online platforms to show off my frontend skills.
+>
+> `frontend`, `portfolio`, `nuxt`, `ts`, `vue`
+>
+> <a href="https://gallery.anafro.ru/"><img src="https://raw.githubusercontent.com/anafro/anafro/main/Buttons/Open-In-Browser.svg" height="28"></a>
+>
+> &nbsp;
+
+> &nbsp;
+> 
+> <img width="18" src="https://raw.githubusercontent.com/anafro/anafro/main/Logos/Quark.svg"> &nbsp; Anafro **Quark** `v4.0`
+> 
+> Quark is an open-source relational database management system designed for applications, backend, and for everyday usage — Quark brings database management tools for both developers and non-developers.
+>
+> `relational-dbms`, `database`, `dbms`, `jvm`, `electron`
+> 
+> <a href="https://github.com/quark-database/"><img src="https://raw.githubusercontent.com/anafro/anafro/main/Buttons/Open-In-Browser.svg" height="28"></a>
+> 
+> &nbsp;
+
+# Hi there! 👋 I'm Minh (Jason) Tran
+
+Welcome to my GitHub profile! I'm a passionate Full-stack Software Engineer who loves music and metaphysics. Feel free to explore my projects, and don't hesitate to reach out if you want to collaborate or discuss anything.
 
 ---
 
