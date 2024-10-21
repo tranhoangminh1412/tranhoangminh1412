@@ -4,14 +4,14 @@
 
 # Hi there! 👋 I'm Minh (Jason) Tran
 
-<table style="width:100%;">
+<table>
   <tr>
-    <td style="text-align:left; vertical-align:top; width:40%;">
+    <td>
       <p>Welcome to my GitHub profile! I'm a passionate Full-stack Software Engineer who loves music and metaphysics. Feel free to explore my projects, and don't hesitate to reach out if you want to collaborate or discuss anything.</p>
     </td>
-    <td style="text-align:right; vertical-align:top; width:60%;">
+    <td>
       <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=uggoayuoh2w3rag8aox8bxr1w&redirect=true">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=uggoayuoh2w3rag8aox8bxr1w&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" style="max-width: 100%;">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=uggoayuoh2w3rag8aox8bxr1w&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" style="max-width: 300px;">
       </a>
     </td>
   </tr>
