@@ -22,11 +22,23 @@ Here are some ideas to get you started:
 -->
 ---
 
-<div align="center">
 | 🎵 Now Playing                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------ |
 | <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=uggoayuoh2w3rag8aox8bxr1w&redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=uggoayuoh2w3rag8aox8bxr1w&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)" style="max-width: 100%;"></a> |
-</div>
+
+<table>
+  <thead>
+    <tr>
+      <th>🎵 Now Playing</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://status.nmoo.dev/top-tracks?i=1&open"><img src="https://status.nmoo.dev/top-tracks?i=1" width="540" height="64"></a></td>
+    </tr>
+    <tr></tr> <!-- hide gray row -->
+  </tbody>
+</table>
 
 <h2 align="center">Skills</h2>
 <h3 align="left">Languages:</h3>
