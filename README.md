@@ -15,7 +15,7 @@ A passionate Full-stack Software Engineer who loves music and metaphysics.
 - 📍 Computer Science + Business Analytics @ [**DePauw University**][dp]
 - 📍 Software Engineer Intern @ [**MOR**][mor]
 - 📍 Software Engineer Intern @ [**Fastboy**][fabo]
-- 📍 Software Documentations Intern @ [**Comartek**][comar]
+- 📍 Documentations Intern @ [**Comartek**][comar]
 - 📍 Founder @ [**Bonfire Project (facebook)**][bonfire]
 - 📍 PR Lead @ [**DePauw Robotics Club**][dpr]
 
