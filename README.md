@@ -116,6 +116,7 @@ Did you know? [A fun fact about you! Something unique or quirky.]
 
 <h2 style="color: #44AEFB">📊 Statistics</h2>
 <img src="https://raw.githubusercontent.com/tranhoangminh1412/tranhoangminh1412/main/statistics.gif" style="align-self:center;">
+![statistics](https://github.com/user-attachments/assets/20a8683f-bcf7-45b7-9dcc-a1e8c4128ba1)
 
 <!-- Begin Stats Cards -->
 <!-- Resources:  -->
@@ -138,7 +139,6 @@ Did you know? [A fun fact about you! Something unique or quirky.]
 Check out my pinned repositories below for some of my favorite work!
 
 ---
-![statistics](https://github.com/user-attachments/assets/20a8683f-bcf7-45b7-9dcc-a1e8c4128ba1)
 
 
 ### 💡 Featured Projects
