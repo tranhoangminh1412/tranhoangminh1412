@@ -186,14 +186,14 @@ I'm constantly learning and experimenting with new things! Currently, I'm diving
 
 <h2 align="center" style="color: #44AEFB">📊 Statistics</h2>
 
-<img align="center" src="https://raw.githubusercontent.com/tranhoangminh1412/tranhoangminh1412/main/statistics.gif" />
-
 <!-- Begin Stats Cards -->
 <!-- Resources:  -->
 <!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
 <!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
 <!-- Change the value after ?username= to your GitHub username. -->
 <div class="stats" align="center">
+
+<img align="center" src="https://raw.githubusercontent.com/tranhoangminh1412/tranhoangminh1412/main/statistics.gif" />
 
 ![Khaled Badran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tranhoangminh1412&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20&hide_rank=true)
 
