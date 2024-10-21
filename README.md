@@ -115,7 +115,7 @@ Did you know? [A fun fact about you! Something unique or quirky.]
 ### ✨ Stats & Contributions
 
 <h2 style="color: #44AEFB">📊 Statistics</h2>
-<img src="https://raw.githubusercontent.com/tranhoangminh1412/tranhoangminh1412/main/statistics.gif" >
+<img src="https://raw.githubusercontent.com/tranhoangminh1412/tranhoangminh1412/main/statistics.gif" style="align-self:center;">
 
 <!-- Begin Stats Cards -->
 <!-- Resources:  -->
