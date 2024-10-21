@@ -184,8 +184,8 @@ Check out my pinned repositories below for some of my favorite work!
 ---
 
 ### 💬 Let's Connect!
-I'm always open to discussing interesting projects or ideas! You can reach out to me on:
-<br/>
+Need a Software Engineer Intern? Contact me through:
+<br/> <br/>
 <a href="https://linkedin.com/in/jasonminh">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="jasonminh"/>
 <a/>
