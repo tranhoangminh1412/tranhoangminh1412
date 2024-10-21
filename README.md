@@ -15,7 +15,7 @@
 -->
 
 
-| 🎵 Now Playing                                                                                                                    |
+| 🎵 Currently Playing                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------------------------------ |
 | <div align="center"><a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=uggoayuoh2w3rag8aox8bxr1w&redirect=true"><img align="center" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=uggoayuoh2w3rag8aox8bxr1w&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)" style="max-width: 100%;"></a></div> |
 <h2 align="middle" >Skills</h2>
