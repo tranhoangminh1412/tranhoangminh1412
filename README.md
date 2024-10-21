@@ -167,8 +167,6 @@ I'm constantly learning and experimenting with new things! Currently, I'm diving
 
 <img align="center" src="https://raw.githubusercontent.com/tranhoangminh1412/tranhoangminh1412/main/statistics.gif" />
 
-![Khaled Badran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tranhoangminh1412&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20&hide_rank=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=tranhoangminh1412&count_private=true&theme=algolia&border_radius=20)
 
 <div style="display: flex; justify-content: center; align-items: center;">
