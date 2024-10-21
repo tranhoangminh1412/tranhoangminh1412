@@ -118,8 +118,6 @@ Did you know? [A fun fact about you! Something unique or quirky.]
 
 <img src="https://raw.githubusercontent.com/tranhoangminh1412/tranhoangminh1412/main/statistics.gif" />
 
-![statistics](https://github.com/user-attachments/assets/20a8683f-bcf7-45b7-9dcc-a1e8c4128ba1)
-
 <!-- Begin Stats Cards -->
 <!-- Resources:  -->
 <!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
