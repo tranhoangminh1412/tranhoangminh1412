@@ -6,7 +6,7 @@
 
 <table style="width:100%;">
   <tr>
-    <td style="text-align:left; vertical-align:top;">
+    <td style="text-align:left; vertical-align:top; width:40%;">
       <p>Welcome to my GitHub profile! I'm a passionate Full-stack Software Engineer who loves music and metaphysics. Feel free to explore my projects, and don't hesitate to reach out if you want to collaborate or discuss anything.</p>
     </td>
     <td style="text-align:right; vertical-align:top;"> 🎵 Now Playing
