@@ -68,12 +68,6 @@ Here are some ideas to get you started:
 
 ---
 
-### 🔭 Current Projects
-- [Project 1](#): A brief description of what you're working on and its goals.
-- [Project 2](#): Another interesting project you're developing or maintaining.
-
----
-
 ### 🌱 What I'm Learning
 I'm constantly learning and experimenting with new things! Currently, I'm diving deeper into:
 - [Technology/Framework 1] 
@@ -87,14 +81,6 @@ I'm always open to discussing interesting projects or ideas! You can reach out t
 - [Twitter](https://twitter.com/yourprofile)
 - Email: [your-email@example.com](mailto:your-email@example.com)
 
----
-
-### 🚀 Technologies & Tools
-Here's a list of technologies I work with:
-- **Languages**: [Languages you use (e.g., JavaScript, Python, C++)]
-- **Frameworks & Libraries**: [Frameworks you use (e.g., React, Node.js, Django)]
-- **Tools**: [Tools you use (e.g., Git, Docker, VSCode)]
-  
 ---
 
 ### ⚡ Fun Fact
