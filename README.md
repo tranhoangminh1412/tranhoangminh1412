@@ -36,7 +36,6 @@ Here are some ideas to get you started:
     <tr>
       <td><a href="https://status.nmoo.dev/top-tracks?i=1&open"><img src="https://status.nmoo.dev/top-tracks?i=1" width="540" height="64"></a></td>
     </tr>
-    <tr></tr> <!-- hide gray row -->
   </tbody>
 </table>
 
