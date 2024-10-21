@@ -6,7 +6,7 @@
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   
-  <p style="width: 45%; text-align: left;">
+  <p style="width: 45; text-align: left;">
     Welcome to my GitHub profile! I'm a passionate Full-stack Software Engineer who loves music and metaphysics. <br/>
     Feel free to explore my projects, and don't hesitate to reach out if you want to collaborate or discuss anything.
   </p>
@@ -22,7 +22,7 @@
 <br/>
 <br/>
 <br/>
-<h2 align="middle">Skills</h2>
+<h2 align="middle" >Skills</h2>
 <h3 align="left">Languages:</h3>
 <p align="left">
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
