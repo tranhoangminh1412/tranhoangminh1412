@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 | ------------------------------------------------------------------------------------------------------------------------------ |
 | <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=uggoayuoh2w3rag8aox8bxr1w&redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=uggoayuoh2w3rag8aox8bxr1w&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)" style="max-width: 100%;"></a> |
 
+---
+
 <h2 align="center">Skills</h2>
 <h3 align="left">Languages:</h3>
 <p align="left">
@@ -136,6 +138,15 @@ Here are some ideas to get you started:
     </a>
 </p>
 
+---
+
+### 🌱 What I'm Learning
+I'm constantly learning and experimenting with new things! Currently, I'm diving deeper into:
+- [Technology/Framework 1] 
+- [Technology/Framework 2]
+
+---
+
 <h2 align="center">List of my projects</h2>
 
 > &nbsp;
@@ -161,27 +172,6 @@ Here are some ideas to get you started:
 > <a href="https://github.com/quark-database/"><img src="https://raw.githubusercontent.com/anafro/anafro/main/Buttons/Open-In-Browser.svg" height="28"></a>
 > 
 > &nbsp;
-
-
----
-
-### 🌱 What I'm Learning
-I'm constantly learning and experimenting with new things! Currently, I'm diving deeper into:
-- [Technology/Framework 1] 
-- [Technology/Framework 2]
-
----
-
-### 💬 Let's Connect!
-I'm always open to discussing interesting projects or ideas! You can reach out to me on:
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
-- Email: [your-email@example.com](mailto:your-email@example.com)
-
----
-
-### ⚡ Fun Fact
-Did you know? [A fun fact about you! Something unique or quirky.]
 
 ---
 
@@ -213,12 +203,16 @@ Check out my pinned repositories below for some of my favorite work!
 
 ---
 
+### 💬 Let's Connect!
+I'm always open to discussing interesting projects or ideas! You can reach out to me on:
+- [LinkedIn](https://linkedin.com/in/yourprofile)
+- [Twitter](https://twitter.com/yourprofile)
+- Email: [your-email@example.com](mailto:your-email@example.com)
 
-### 💡 Featured Projects
-Here are some of my favorite projects that I'm proud of:
+---
 
-- **[Project Name](#)** - A brief description of the project and its impact.
-- **[Another Project Name](#)** - Another cool project worth checking out!
+### ⚡ Fun Fact
+Did you know? [A fun fact about you! Something unique or quirky.]
 
 ---
 
