@@ -14,16 +14,24 @@
 -->
 </div>
 
-***Where?***
-- :shipit: Computer Science + Mathematics @ [**DePauw University**][dp]
-- :shipit: Software Engineer Intern @ [**Meta**][meta]
-- :shipit: Software Engineer Intern @ [**NolymitAI**][nolymitai]
-- :shipit: Software Engineer Intern @ [**Unitech**][unitech]
-- :shipit: Vice President @ [**International Computer Science Association at DePauw**][icsa]
-
 | 🎵 Currently Playing                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------------------------------ |
 | <div align="right"><a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=uggoayuoh2w3rag8aox8bxr1w&redirect=true"><img align="right" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=uggoayuoh2w3rag8aox8bxr1w&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)" style="max-width: 100%;"></a></div> |
+
+**My life**
+- 📌 Computer Science + Business Analytics @ [**DePauw University**][dp]
+- 📌 Software Engineer Intern @ [**MOR**][mor]
+- 📌 Software Engineer Intern @ [**Fastboy**][fabo]
+- 📌 Software Documentations Intern @ [**Comartek**][comar]
+- 📌 Founder @ [**Bonfire Project (facebook)**][bonfire]
+- 📌 PR Lead @ [**DePauw Robotics Club**][dpr]
+
+[dp]: https://www.depauw.edu/
+[mor]: https://www.morsoftware.com/
+[fabo]: https://www.fastboy.com/
+[comar]: https://thehub.io/startups/comartek
+[bonfire]: https://www.facebook.com/bonfire2020
+[dpr]: https://www.instagram.com/derobotics/
 
 <h2 align="middle" >Skills</h2>
 <h3 align="left">Languages:</h3>
