@@ -171,11 +171,9 @@ I'm constantly learning and experimenting with new things! Currently, I'm diving
 > 
 > &nbsp;
 
-<h2 align="center">✨ Stats & Contributions</h2>
-
 <h2 align="center" style="color: #44AEFB">📊 Statistics</h2>
 
-<img src="https://raw.githubusercontent.com/tranhoangminh1412/tranhoangminh1412/main/statistics.gif" />
+<img align="center" src="https://raw.githubusercontent.com/tranhoangminh1412/tranhoangminh1412/main/statistics.gif" />
 
 <!-- Begin Stats Cards -->
 <!-- Resources:  -->
