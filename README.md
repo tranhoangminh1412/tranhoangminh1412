@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 > &nbsp;
 >
-> <img width="18" src="https://raw.githubusercontent.com/anafro/anafro/main/Logos/Gallery.svg"> &nbsp; Anafro **Gallery** `v1.0`
+> <img width="18" src="https://raw.githubusercontent.com/tranhoangminh1412/tranhoangminh1412/main/soundcloud-svgrepo-com.svg"> &nbsp; Soundcloud **Clone** `v1.0`
 >
-> Gallery is an online collection of my websites and online platforms to show off my frontend skills.
+> A full-stack music streaming website utilizing Nextjs, where I practiced creating custom APIs and backend environments with NodeJS.
 >
 > `frontend`, `portfolio`, `nuxt`, `ts`, `vue`
 >
