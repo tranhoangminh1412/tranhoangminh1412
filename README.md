@@ -145,7 +145,6 @@ lank" rel="noreferrer">
 - ✊ Computer Vision (OpenCV)
 - ✊ AR Techonologies
 
----
 <!--
 <h2 align="center">List of my projects</h2>
 
