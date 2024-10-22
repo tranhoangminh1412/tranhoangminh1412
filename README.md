@@ -4,7 +4,7 @@
 [[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=uggoayuoh2w3rag8aox8bxr1w&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=uggoayuoh2w3rag8aox8bxr1w&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)]]
 -->
 
-👨🏻‍💻 A passionate Full-stack Software Engineer who loves music and metaphysics.
+👨🏻‍💻 A passionate Full-stack Software Engineer from Vietnam who loves music and metaphysics.
 
 | 🎵 Currently Playing                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------------------------------ |
