@@ -6,8 +6,6 @@
 
 <p align="middle">👨🏻‍💻 A creative Full-stack Software Engineer from Vietnam who loves music and metaphysics.</p>
 
-| 🎵 Currently Playing                                                                                                                   |
-| ------------------------------------------------------------------------------------------------------------------------------ |
 | <div align="middle"><a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=uggoayuoh2w3rag8aox8bxr1w&redirect=true"><img align="middle" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=uggoayuoh2w3rag8aox8bxr1w&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)" style="max-width: 100%;"></a></div> |
 
 <h2 align="middle">🗺️ Life</h2>
