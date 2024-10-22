@@ -204,7 +204,3 @@ Need a Software Engineer Intern? Contact me through:
 <a href="mailto:contact.minhtran@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="contact.minhtran@gmail.com"/>
 <a/>
-
----
-
-Thank you for stopping by! 😊 Let's build something amazing together! 💻✨
