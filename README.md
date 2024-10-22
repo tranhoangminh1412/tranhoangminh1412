@@ -183,8 +183,6 @@ lank" rel="noreferrer">
 
 <div class="stats" align="center">
 
-<img align="center" src="https://raw.githubusercontent.com/tranhoangminh1412/tranhoangminh1412/main/statistics.gif" />
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=tranhoangminh1412&count_private=true&theme=algolia&border_radius=20)
 
 <div style="display: flex; justify-content: center; align-items: center;">
@@ -196,11 +194,8 @@ lank" rel="noreferrer">
 
 <!--  End Stats Cards -->
   
-Check out my pinned repositories below for some of my favorite work!
-
 ---
 
-### 💬 Let's Connect!
 Need a Software Engineer Intern? Contact me through:
 <br/> <br/>
 <a href="https://linkedin.com/in/jasonminh">
