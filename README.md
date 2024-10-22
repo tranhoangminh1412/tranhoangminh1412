@@ -16,12 +16,12 @@
 
 <h2 align="middle">🗺️ Life</h2>
 
-- 📍 Computer Science + Business Analytics @ [**DePauw University**][dp]
-- 📍 Software Engineer Intern @ [**MOR**][mor]
-- 📍 Software Engineer Intern @ [**Fastboy**][fabo]
-- 📍 Documentations Intern @ [**Comartek**][comar]
-- 📍 Founder @ [**Bonfire Project (facebook)**][bonfire]
-- 📍 PR Lead @ [**DePauw Robotics Club**][dpr]
+📍 Computer Science + Business Analytics @ [**DePauw University**][dp]
+📍 Software Engineer Intern @ [**MOR**][mor]
+📍 Software Engineer Intern @ [**Fastboy**][fabo]
+📍 Documentations Intern @ [**Comartek**][comar]
+📍 Founder @ [**Bonfire Project (facebook)**][bonfire]
+📍 PR Lead @ [**DePauw Robotics Club**][dpr]
 
 [dp]: https://www.depauw.edu/
 [mor]: https://www.morsoftware.com/
