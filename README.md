@@ -1,10 +1,4 @@
-<div align="middle">
-    
-<kbd align="middle" max-width="40px">
-<h3 align="middle">🎵 Currently Playing</h3>
-<div style="border: 2px solid #53b14f; padding: 10px; border-radius: 10px;" align="middle"><a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=uggoayuoh2w3rag8aox8bxr1w&redirect=true"><img align="middle" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=uggoayuoh2w3rag8aox8bxr1w&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)" style="max-width: 100%;"></a></div>
-</kbd> 
-</div>
+
 
 [![header](./bannerround.png)](https://minh-info.com/)
 
@@ -204,3 +198,11 @@ Need a Software Engineer Intern? Contact me through:
 <a href="mailto:contact.minhtran@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="contact.minhtran@gmail.com"/>
 <a/>
+
+<div align="middle">
+    
+<kbd align="middle" max-width="40px">
+<h3 align="middle">🎵 Currently Playing</h3>
+<div style="border: 2px solid #53b14f; padding: 10px; border-radius: 10px;" align="middle"><a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=uggoayuoh2w3rag8aox8bxr1w&redirect=true"><img align="middle" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=uggoayuoh2w3rag8aox8bxr1w&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)" style="max-width: 100%;"></a></div>
+</kbd> 
+</div>
